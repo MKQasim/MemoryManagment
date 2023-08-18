@@ -19,5 +19,4 @@ class Car {
   deinit {
     print("\(self) De allocated")
   }
-  
 }
