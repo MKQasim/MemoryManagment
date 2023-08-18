@@ -12,6 +12,7 @@ class HomeVC: UIViewController {
   override func viewDidLoad() {
     print("\(self) is allocated ")
     super.viewDidLoad()
+    
     addTimer()
   }
   
