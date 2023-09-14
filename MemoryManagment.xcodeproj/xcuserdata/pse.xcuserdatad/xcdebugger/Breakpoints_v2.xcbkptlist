@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "777F0E98-6ADB-4C83-ACFD-E560D925B913"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A524574-AA38-4741-924B-89CBB6C7816A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TestDelegation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "testUnownedReference()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A524574-AA38-4741-924B-89CBB6C7816A - c57d2a5d82ad6ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MemoryManagment.TestDelegation.testUnownedReference() -&gt; ()"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TestDelegation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "5A524574-AA38-4741-924B-89CBB6C7816A - c57d2a5d82ad6ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MemoryManagment.TestDelegation.testUnownedReference() -&gt; ()"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TestDelegation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5A524574-AA38-4741-924B-89CBB6C7816A - c57d2a5d82ad6ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MemoryManagment.TestDelegation.testUnownedReference() -&gt; ()"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TestDelegation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4E0BEBB-7405-4CFF-BE2F-C059054CF8CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TestDelegation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "testStrongReference()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4E0BEBB-7405-4CFF-BE2F-C059054CF8CF - 74c763b4953cbe02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MemoryManagment.TestDelegation.testStrongReference() -&gt; ()"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TestDelegation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "C4E0BEBB-7405-4CFF-BE2F-C059054CF8CF - 74c763b4953cbe02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MemoryManagment.TestDelegation.testStrongReference() -&gt; ()"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TestDelegation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C4E0BEBB-7405-4CFF-BE2F-C059054CF8CF - 74c763b4953cbe02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MemoryManagment.TestDelegation.testStrongReference() -&gt; ()"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TestDelegation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D96732A7-0A5F-49A0-9EFA-78437563E239"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "Car"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D96732A7-0A5F-49A0-9EFA-78437563E239 - e0ea39c31d0e7f8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemoryManagment.Car.deinit"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TwoClasses.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "D96732A7-0A5F-49A0-9EFA-78437563E239 - e0ea39c31d0e7f16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemoryManagment.Car.deinit"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TwoClasses.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D458186-5B4B-44EB-B2C6-5AA0E7C8F073"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "TestTwoClasses"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A4616F2-95B0-463D-B80B-26CFF2AD78F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "init(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A4616F2-95B0-463D-B80B-26CFF2AD78F3 - d0196db2fa66b80a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemoryManagment.Personal.init(name: Swift.String) -&gt; MemoryManagment.Personal"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TwoClasses.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "3A4616F2-95B0-463D-B80B-26CFF2AD78F3 - d0196db2fa66b80a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemoryManagment.Personal.init(name: Swift.String) -&gt; MemoryManagment.Personal"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TwoClasses.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "231">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEBA868-6F14-4088-80DE-816866BD0DCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "init(number:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EEBA868-6F14-4088-80DE-816866BD0DCE - 1e76507bfdb4ffa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemoryManagment.Apartment.init(number: Swift.Int) -&gt; MemoryManagment.Apartment"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TwoClasses.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  uuid = "0EEBA868-6F14-4088-80DE-816866BD0DCE - 1e76507bfdb4ffa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemoryManagment.Apartment.init(number: Swift.Int) -&gt; MemoryManagment.Apartment"
+                  moduleName = "MemoryManagment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pse/Documents/Documents%20-%20Muhammad%20MacBook%20Pro/KamQasim/Development/Interview_Preperation/MemoryManagment/MemoryManagment/Controllers/TwoClasses.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5AEFD3F-A9DF-4503-8EEE-93D294C0AB0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "Apartment"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB73400E-E220-4251-ABBF-48A9E1ECB92B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "Personal"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A266158-F82D-4C03-B977-2A5D454961DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/LandingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "testWeakReference()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49902879-9D4B-4CAF-9A2D-D6A688E511DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "testAllCases()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF141FB4-AE02-4CA9-AFC1-432E821898FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemoryManagment/Controllers/TwoClasses.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "testAllCases()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

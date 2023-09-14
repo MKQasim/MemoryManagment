@@ -49,6 +49,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4yW-yH-IKH">
                                 <rect key="frame" x="76" y="408.66666666666669" width="241" height="35"/>
+                                <color key="tintColor" systemColor="labelColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Go To Back To Landing Page"/>
                                 <connections>
@@ -57,7 +58,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="BDo-AF-OSd"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="4yW-yH-IKH" firstAttribute="centerX" secondItem="913-RK-qYU" secondAttribute="centerX" id="0Dt-7f-C2q"/>
                             <constraint firstItem="4yW-yH-IKH" firstAttribute="centerY" secondItem="913-RK-qYU" secondAttribute="centerY" id="INz-nq-0Te"/>
@@ -88,6 +89,9 @@
         </scene>
     </scenes>
     <resources>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

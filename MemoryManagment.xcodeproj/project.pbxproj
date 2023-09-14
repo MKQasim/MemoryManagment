@@ -17,8 +17,16 @@
 		5D2B13BB2A8FA66E00961B1F /* MemoryManagmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B13BA2A8FA66E00961B1F /* MemoryManagmentUITestsLaunchTests.swift */; };
 		5D2B13CC2A8FA75900961B1F /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B13CB2A8FA75900961B1F /* HomeVC.swift */; };
 		5D2B13CE2A8FA77200961B1F /* LandingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B13CD2A8FA77200961B1F /* LandingVC.swift */; };
-		5D2B13D32A8FC07900961B1F /* Vechile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B13D22A8FC07900961B1F /* Vechile.swift */; };
-		5D2B13D52A8FCE2700961B1F /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B13D42A8FCE2700961B1F /* Car.swift */; };
+		5D3A09AC2AAC850200D23A86 /* gitlab-ci.yaml in Resources */ = {isa = PBXBuildFile; fileRef = 5D3A09AB2AAC850200D23A86 /* gitlab-ci.yaml */; };
+		5D7E0BA22AAB5B6700959A1B /* DelegateExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BA12AAB5B6700959A1B /* DelegateExample.swift */; };
+		5D7E0BA42AAB5C6900959A1B /* TimerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BA32AAB5C6900959A1B /* TimerExample.swift */; };
+		5D7E0BA62AAB60BF00959A1B /* TwoClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BA52AAB60BF00959A1B /* TwoClasses.swift */; };
+		5D7E0BA82AAB62DC00959A1B /* ClassAndStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BA72AAB62DC00959A1B /* ClassAndStruct.swift */; };
+		5D7E0BAA2AAB67A500959A1B /* ClosureTester.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BA92AAB67A500959A1B /* ClosureTester.swift */; };
+		5D7E0BAC2AAB68FE00959A1B /* TestDelegation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BAB2AAB68FE00959A1B /* TestDelegation.swift */; };
+		5D7E0BAE2AAB6AF300959A1B /* TimersandDispatchQueues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BAD2AAB6AF300959A1B /* TimersandDispatchQueues.swift */; };
+		5D7E0BB02AAB9A9400959A1B /* Parent-ChildVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BAF2AAB9A9400959A1B /* Parent-ChildVC.swift */; };
+		5D7E0BB22AABA2F200959A1B /* SingletonManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7E0BB12AABA2F200959A1B /* SingletonManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,8 +61,16 @@
 		5D2B13BA2A8FA66E00961B1F /* MemoryManagmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryManagmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5D2B13CB2A8FA75900961B1F /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 		5D2B13CD2A8FA77200961B1F /* LandingVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingVC.swift; sourceTree = "<group>"; };
-		5D2B13D22A8FC07900961B1F /* Vechile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vechile.swift; sourceTree = "<group>"; };
-		5D2B13D42A8FCE2700961B1F /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		5D3A09AB2AAC850200D23A86 /* gitlab-ci.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = "gitlab-ci.yaml"; sourceTree = "<group>"; };
+		5D7E0BA12AAB5B6700959A1B /* DelegateExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelegateExample.swift; sourceTree = "<group>"; };
+		5D7E0BA32AAB5C6900959A1B /* TimerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerExample.swift; sourceTree = "<group>"; };
+		5D7E0BA52AAB60BF00959A1B /* TwoClasses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoClasses.swift; sourceTree = "<group>"; };
+		5D7E0BA72AAB62DC00959A1B /* ClassAndStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassAndStruct.swift; sourceTree = "<group>"; };
+		5D7E0BA92AAB67A500959A1B /* ClosureTester.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosureTester.swift; sourceTree = "<group>"; };
+		5D7E0BAB2AAB68FE00959A1B /* TestDelegation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDelegation.swift; sourceTree = "<group>"; };
+		5D7E0BAD2AAB6AF300959A1B /* TimersandDispatchQueues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimersandDispatchQueues.swift; sourceTree = "<group>"; };
+		5D7E0BAF2AAB9A9400959A1B /* Parent-ChildVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Parent-ChildVC.swift"; sourceTree = "<group>"; };
+		5D7E0BB12AABA2F200959A1B /* SingletonManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingletonManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +126,7 @@
 				5D2B13D02A8FAB2400961B1F /* StoryBoards */,
 				5D2B13D12A8FAB3500961B1F /* Assets */,
 				5D2B13A52A8FA66D00961B1F /* Info.plist */,
+				5D3A09AB2AAC850200D23A86 /* gitlab-ci.yaml */,
 			);
 			path = MemoryManagment;
 			sourceTree = "<group>";
@@ -136,8 +153,15 @@
 			children = (
 				5D2B13CD2A8FA77200961B1F /* LandingVC.swift */,
 				5D2B13CB2A8FA75900961B1F /* HomeVC.swift */,
-				5D2B13D22A8FC07900961B1F /* Vechile.swift */,
-				5D2B13D42A8FCE2700961B1F /* Car.swift */,
+				5D7E0BA12AAB5B6700959A1B /* DelegateExample.swift */,
+				5D7E0BA32AAB5C6900959A1B /* TimerExample.swift */,
+				5D7E0BA52AAB60BF00959A1B /* TwoClasses.swift */,
+				5D7E0BA72AAB62DC00959A1B /* ClassAndStruct.swift */,
+				5D7E0BA92AAB67A500959A1B /* ClosureTester.swift */,
+				5D7E0BAB2AAB68FE00959A1B /* TestDelegation.swift */,
+				5D7E0BAD2AAB6AF300959A1B /* TimersandDispatchQueues.swift */,
+				5D7E0BAF2AAB9A9400959A1B /* Parent-ChildVC.swift */,
+				5D7E0BB12AABA2F200959A1B /* SingletonManager.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -275,6 +299,7 @@
 				5D2B13A42A8FA66D00961B1F /* LaunchScreen.storyboard in Resources */,
 				5D2B13A12A8FA66D00961B1F /* Assets.xcassets in Resources */,
 				5D2B139F2A8FA66500961B1F /* Main.storyboard in Resources */,
+				5D3A09AC2AAC850200D23A86 /* gitlab-ci.yaml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,12 +324,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D7E0BA22AAB5B6700959A1B /* DelegateExample.swift in Sources */,
 				5D2B13982A8FA66500961B1F /* AppDelegate.swift in Sources */,
+				5D7E0BB22AABA2F200959A1B /* SingletonManager.swift in Sources */,
+				5D7E0BA42AAB5C6900959A1B /* TimerExample.swift in Sources */,
+				5D7E0BAC2AAB68FE00959A1B /* TestDelegation.swift in Sources */,
+				5D7E0BAE2AAB6AF300959A1B /* TimersandDispatchQueues.swift in Sources */,
 				5D2B139A2A8FA66500961B1F /* SceneDelegate.swift in Sources */,
-				5D2B13D52A8FCE2700961B1F /* Car.swift in Sources */,
+				5D7E0BA62AAB60BF00959A1B /* TwoClasses.swift in Sources */,
 				5D2B13CE2A8FA77200961B1F /* LandingVC.swift in Sources */,
-				5D2B13D32A8FC07900961B1F /* Vechile.swift in Sources */,
+				5D7E0BAA2AAB67A500959A1B /* ClosureTester.swift in Sources */,
 				5D2B13CC2A8FA75900961B1F /* HomeVC.swift in Sources */,
+				5D7E0BA82AAB62DC00959A1B /* ClassAndStruct.swift in Sources */,
+				5D7E0BB02AAB9A9400959A1B /* Parent-ChildVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

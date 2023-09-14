@@ -1,0 +1,27 @@
+stages:
+  - test
+  - build
+  - deploy
+
+variables:
+  # Define any environment variables you need here
+  # For example:
+  # MY_ENV_VAR: "some_value"
+
+build
+  stage:test
+  script:
+  
+  
+build:
+  stage: build
+  script:
+    - echo "This is the build stage"
+    - git clone ${CI_PROJECT_URL} my_project  # Clone the GitLab project
+    - cd my_project
+    - git checkout ${CI_COMMIT_REF_NAME}     # Checkout the branch being built
+
+
+
+  only:
+    - master  # Specify the branch to trigger this job (e.g., only run on the 'master' branch)
